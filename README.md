@@ -43,7 +43,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0547-number-of-provinces) |
 # Backtracking
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0494-target-sum) |
+# Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0547-number-of-provinces) |
+# Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0547-number-of-provinces) |
+# Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0547-number-of-provinces) |
