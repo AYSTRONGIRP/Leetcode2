@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0494-target-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0967-minimum-falling-path-sum) |
+| [1250-longest-common-subsequence](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1250-longest-common-subsequence) |
 # Math
 |  |
 | ------- |
@@ -69,3 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0075-sort-colors) |
+# String
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1250-longest-common-subsequence) |
