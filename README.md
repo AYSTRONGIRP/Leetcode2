@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0494-target-sum) |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0494-target-sum) |
@@ -82,3 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+# Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0300-longest-increasing-subsequence) |
