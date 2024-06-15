@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0547-number-of-provinces) |
 # Backtracking
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0547-number-of-provinces) |
 # Union Find
 |  |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0547-number-of-provinces) |
 # Two Pointers
 |  |
@@ -110,3 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1129-longest-string-chain](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1129-longest-string-chain) |
+# Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0207-course-schedule) |
