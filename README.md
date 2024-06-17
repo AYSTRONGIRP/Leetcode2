@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0075-sort-colors) |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0064-minimum-path-sum) |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0142-linked-list-cycle-ii) |
@@ -135,11 +138,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0943-sum-of-subarray-minimums) |
 # Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0042-trapping-rain-water) |
 | [0943-sum-of-subarray-minimums](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0943-sum-of-subarray-minimums) |
 # Simulation
 |  |
