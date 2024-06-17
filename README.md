@@ -117,3 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0207-course-schedule) |
+# Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0237-delete-node-in-a-linked-list) |
