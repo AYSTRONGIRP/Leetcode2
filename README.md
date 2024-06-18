@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0547-number-of-provinces) |
 # Union Find
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0735-asteroid-collision](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0943-sum-of-subarray-minimums) |
 # Monotonic Stack
@@ -150,3 +152,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0735-asteroid-collision) |
+# Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0144-binary-tree-preorder-traversal) |
+# Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0144-binary-tree-preorder-traversal) |
