@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0120-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0322-coin-change) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0207-course-schedule) |
@@ -159,11 +161,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0145-binary-tree-postorder-traversal) |
 # Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0145-binary-tree-postorder-traversal) |
