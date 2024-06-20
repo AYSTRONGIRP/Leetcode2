@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-longest-string-chain](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0735-asteroid-collision) |
+| [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3447-clear-digits](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3447-clear-digits) |
 # Tree
 |  |
