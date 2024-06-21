@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0494-target-sum) |
 | [0735-asteroid-collision](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0735-asteroid-collision) |
+| [0747-min-cost-climbing-stairs](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0747-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0967-minimum-falling-path-sum) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0494-target-sum) |
+| [0747-min-cost-climbing-stairs](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0747-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0967-minimum-falling-path-sum) |
 | [1129-longest-string-chain](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1129-longest-string-chain) |
