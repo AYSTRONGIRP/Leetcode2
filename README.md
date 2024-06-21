@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0747-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0967-minimum-falling-path-sum) |
+| [1086-divisor-game](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1086-divisor-game) |
 | [1129-longest-string-chain](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0368-largest-divisible-subset) |
+| [1086-divisor-game](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1086-divisor-game) |
 # Combinatorics
 |  |
 | ------- |
@@ -195,3 +197,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0145-binary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+# Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1086-divisor-game) |
+# Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1086-divisor-game) |
