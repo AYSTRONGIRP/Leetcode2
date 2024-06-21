@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0198-house-robber) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0096-unique-binary-search-trees) |
 | [0368-largest-divisible-subset](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0368-largest-divisible-subset) |
 | [1086-divisor-game](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1086-divisor-game) |
 # Combinatorics
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0102-binary-tree-level-order-traversal) |
@@ -191,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0102-binary-tree-level-order-traversal) |
@@ -207,3 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1086-divisor-game) |
+# Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0096-unique-binary-search-trees) |
