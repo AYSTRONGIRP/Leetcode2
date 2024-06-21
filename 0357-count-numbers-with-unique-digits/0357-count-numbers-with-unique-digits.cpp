@@ -4,10 +4,14 @@ public:
         // cout<<pow(9,(n-1))<<endl;
         // cout<<pow(10,n)<<endl;
         // cout<<(pow(10,n)- (int)pow(9,n-1))<<endl;
-
+        if(n==1)
+            return 10 ;
+        if(n==0)
+            return 1 ;
+            
         int res = 1 ;
         int temp =9 ;
-        int dp[9];
+        int dp[n+1];
         dp[1]=10; 
 
         for(int i = 1 ; i <= n ; i++){    
@@ -23,10 +27,7 @@ public:
             // cout<<res<<" "<<temp<<endl;
         }
         
-        if(n==1)
-            return 10 ;
-        if(n==0)
-            return 1 ;
+        
 
         // for(int i = 0 ; i<=n ; i++){
         //     cout<<dp[i]<<endl;
