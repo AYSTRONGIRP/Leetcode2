@@ -6,14 +6,17 @@ public:
             return 1 ;
         dp[1]=1;
         dp[2]=2;
+
         if(n==3)
             return 2 ;
+
         dp[3]=3;
+
         for(int i = 4 ; i < n+1 ; i++){
             dp[i]=0;
             // cout<<(i+1)/2<<"half"<<i<<endl;
             for(int j = i-1 ; j >=(i+1)/2 ; j--){
-                dp[i]= max(dp[i],max(dp[j]*dp[i-j],j*(i-j)));
+                dp[i]= max(dp[i],dp[j]*dp[i-j]);
                 // if(i==8)
                 // cout<<dp[j]*dp[i-j]<<"ajkd"<<j*(i-j)<<endl;
             }
