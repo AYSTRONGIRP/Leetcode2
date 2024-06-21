@@ -20,7 +20,7 @@ public:
 
             if(i>1)
                 dp[i] = res+dp[i-1];
-            cout<<res<<" "<<temp<<endl;
+            // cout<<res<<" "<<temp<<endl;
         }
         
         if(n==1)
@@ -28,9 +28,9 @@ public:
         if(n==0)
             return 1 ;
 
-        for(int i = 0 ; i<=n ; i++){
-            cout<<dp[i]<<endl;
-        }
+        // for(int i = 0 ; i<=n ; i++){
+        //     cout<<dp[i]<<endl;
+        // }
         return dp[n];
     }
 };
