@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2714-left-and-right-sum-differences](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2714-left-and-right-sum-differences) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -260,3 +261,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1603-running-sum-of-1d-array) |
+| [2714-left-and-right-sum-differences](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2714-left-and-right-sum-differences) |
