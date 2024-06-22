@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-running-sum-of-1d-array](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1603-running-sum-of-1d-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-longest-string-chain](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3447-clear-digits) |
 # Greedy
