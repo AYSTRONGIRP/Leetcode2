@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3446-find-the-number-of-good-pairs-i) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1129-longest-string-chain](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1129-longest-string-chain) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3447-clear-digits](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3447-clear-digits) |
 # Topological Sort
 |  |
