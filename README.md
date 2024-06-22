@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0967-minimum-falling-path-sum) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1129-longest-string-chain](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1129-longest-string-chain) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0368-largest-divisible-subset) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # String
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 # Hash Table
 |  |
 | ------- |
@@ -170,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0142-linked-list-cycle-ii) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1129-longest-string-chain](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1129-longest-string-chain) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3446-find-the-number-of-good-pairs-i) |
