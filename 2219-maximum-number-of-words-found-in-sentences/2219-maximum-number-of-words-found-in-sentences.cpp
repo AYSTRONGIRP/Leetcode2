@@ -9,8 +9,8 @@ public:
                 if(ch==' ')
                     temp++;
             }
-            count = max(count,temp+1);
+            count = max(count,temp);
         }
-        return count;
+        return count+1;
     }
 };
