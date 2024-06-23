@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1839-decode-xored-array](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1839-decode-xored-array) |
+| [1899-count-items-matching-a-rule](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1944-truncate-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1899-count-items-matching-a-rule](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1944-truncate-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
