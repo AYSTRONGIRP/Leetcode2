@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0967-minimum-falling-path-sum) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1129-longest-string-chain](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1129-longest-string-chain) |
+| [1241-decompress-run-length-encoded-list](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1241-decompress-run-length-encoded-list) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1505-create-target-array-in-the-given-order) |
 | [1603-running-sum-of-1d-array](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1603-running-sum-of-1d-array) |
