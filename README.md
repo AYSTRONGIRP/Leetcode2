@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1241-decompress-run-length-encoded-list](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1241-decompress-run-length-encoded-list) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1505-create-target-array-in-the-given-order) |
+| [1572-subrectangle-queries](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1572-subrectangle-queries) |
 | [1603-running-sum-of-1d-array](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1603-running-sum-of-1d-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0967-minimum-falling-path-sum) |
+| [1572-subrectangle-queries](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1572-subrectangle-queries) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -276,3 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2714-left-and-right-sum-differences) |
+# Design
+|  |
+| ------- |
+| [1572-subrectangle-queries](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1572-subrectangle-queries) |
