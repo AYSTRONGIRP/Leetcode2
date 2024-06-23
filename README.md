@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0064-minimum-path-sum) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0141-linked-list-cycle) |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0982-minimum-increment-to-make-array-unique) |
