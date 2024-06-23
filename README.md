@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2714-left-and-right-sum-differences](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2714-left-and-right-sum-differences) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3446-find-the-number-of-good-pairs-i) |
