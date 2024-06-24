@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0747-min-cost-climbing-stairs) |
 | [0861-flipping-an-image](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0861-flipping-an-image) |
 | [0943-sum-of-subarray-minimums](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0943-sum-of-subarray-minimums) |
+| [0958-sort-array-by-parity-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0958-sort-array-by-parity-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0967-minimum-falling-path-sum) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1019-squares-of-a-sorted-array](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1019-squares-of-a-sorted-array) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0861-flipping-an-image](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0908-middle-of-the-linked-list) |
+| [0958-sort-array-by-parity-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1019-squares-of-a-sorted-array) |
 | [1129-longest-string-chain](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1129-longest-string-chain) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0368-largest-divisible-subset) |
+| [0958-sort-array-by-parity-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0958-sort-array-by-parity-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1019-squares-of-a-sorted-array](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
