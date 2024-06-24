@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0125-valid-palindrome) |
 | [1129-longest-string-chain](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
