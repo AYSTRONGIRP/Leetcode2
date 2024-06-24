@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0064-minimum-path-sum) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0125-valid-palindrome) |
