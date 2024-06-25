@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0120-triangle) |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0063-unique-paths-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0085-maximal-rectangle) |
 | [0861-flipping-an-image](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0861-flipping-an-image) |
 | [0967-minimum-falling-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0967-minimum-falling-path-sum) |
 | [1572-subrectangle-queries](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1572-subrectangle-queries) |
@@ -254,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0496-next-greater-element-i) |
@@ -266,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0943-sum-of-subarray-minimums) |
