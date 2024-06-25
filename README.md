@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0494-target-sum) |
 # Depth-First Search
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0207-course-schedule) |
+| [0257-binary-tree-paths](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0091-decode-ways](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0344-reverse-string) |
 | [0979-di-string-match](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0979-di-string-match) |
 | [1129-longest-string-chain](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1129-longest-string-chain) |
@@ -304,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0662-maximum-width-of-binary-tree) |
@@ -322,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0662-maximum-width-of-binary-tree) |
