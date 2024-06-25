@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0494-target-sum) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1030-smallest-string-starting-from-leaf) |
 # Depth-First Search
 |  |
 | ------- |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1030-smallest-string-starting-from-leaf) |
 # Union Find
 |  |
 | ------- |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0344-reverse-string) |
 | [0979-di-string-match](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0979-di-string-match) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1129-longest-string-chain](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -322,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1030-smallest-string-starting-from-leaf) |
 # Binary Tree
 |  |
 | ------- |
@@ -343,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1030-smallest-string-starting-from-leaf) |
 # Brainteaser
 |  |
 | ------- |
