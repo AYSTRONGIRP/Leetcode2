@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0662-maximum-width-of-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 # Backtracking
 |  |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0662-maximum-width-of-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 # Union Find
 |  |
@@ -303,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0662-maximum-width-of-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 # Binary Tree
 |  |
@@ -319,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0662-maximum-width-of-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 # Brainteaser
 |  |
@@ -335,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 # Bit Manipulation
 |  |
