@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0063-unique-paths-ii) |
@@ -369,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0074-search-a-2d-matrix) |
