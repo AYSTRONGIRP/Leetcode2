@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0503-next-greater-element-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0735-asteroid-collision) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0747-min-cost-climbing-stairs) |
 | [0861-flipping-an-image](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0890-lemonade-change) |
@@ -374,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0278-first-bad-version](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0278-first-bad-version) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 # Bit Manipulation
