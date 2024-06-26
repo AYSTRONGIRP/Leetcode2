@@ -12,7 +12,7 @@ public:
 
         while(l<r){
             long long mid = l+(r-l)/2;
-            cout<<mid<<"mid"<<endl;
+            // cout<<mid<<"mid"<<endl;
             if(mid*mid>x)
                 r=mid;
             else
