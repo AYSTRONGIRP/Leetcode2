@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0120-triangle) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0063-unique-paths-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0085-maximal-rectangle) |
 | [0861-flipping-an-image](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0861-flipping-an-image) |
 | [0967-minimum-falling-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0967-minimum-falling-path-sum) |
@@ -364,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0074-search-a-2d-matrix) |
 | [0096-unique-binary-search-trees](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0096-unique-binary-search-trees) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0530-minimum-absolute-difference-in-bst) |
