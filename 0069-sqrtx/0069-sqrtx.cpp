@@ -17,10 +17,7 @@ public:
                 r=mid;
             else
                 l=mid+1;
-            
-            count--;
-            if(count==0)
-                return l ;
+
         }
         return l-1 ;
     }
