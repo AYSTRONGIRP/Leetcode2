@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0322-coin-change) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0494-target-sum) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0861-flipping-an-image](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0908-middle-of-the-linked-list) |
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0018-4sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0075-sort-colors) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0368-largest-divisible-subset) |
 | [0958-sort-array-by-parity-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0958-sort-array-by-parity-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -263,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0142-linked-list-cycle-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -378,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0278-first-bad-version) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0441-arranging-coins) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0653-two-sum-iv-input-is-a-bst) |
