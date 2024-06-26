@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0198-house-robber) |
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0074-search-a-2d-matrix) |
 | [0096-unique-binary-search-trees](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0096-unique-binary-search-trees) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0278-first-bad-version) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0530-minimum-absolute-difference-in-bst) |
