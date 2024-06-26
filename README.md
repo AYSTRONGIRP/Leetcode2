@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0343-integer-break](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0368-largest-divisible-subset) |
+| [0441-arranging-coins](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0441-arranging-coins) |
 | [1086-divisor-game](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1086-divisor-game) |
 # Combinatorics
 |  |
@@ -375,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0278-first-bad-version) |
+| [0441-arranging-coins](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0441-arranging-coins) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0745-find-smallest-letter-greater-than-target) |
