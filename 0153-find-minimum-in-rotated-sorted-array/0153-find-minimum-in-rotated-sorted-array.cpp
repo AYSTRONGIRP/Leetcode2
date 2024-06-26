@@ -20,30 +20,15 @@ public:
             long mid = l+(r-l)/2;
             cout<<mid<<"mid"<<endl;
             cout<<l<<"l h"<<r<<endl;
-            if(nums[mid]<nums[mid-1] &&nums[mid]<nums[mid+1]){
+            if(nums[mid]<nums[mid-1] &&nums[mid]<nums[mid+1])
                 return nums[mid];
-            }
-            // else if(nums[mid]<nums[mid-1] &&nums[mid]<nums[mid+1]){
-            //     return nums[mid];
-            // }
-            
             else if(nums[mid]<nums[n-1])
-                {
                     r=mid-1;
-                    // cout<<"
-                }
-            else{
+            else
                     l=mid+1;
-                }
-
-
         }
-        if(l==n-1){
-            cout<<"last index case"<<l<<r<<endl;
-            return nums[0];}
-        else{
-            cout<<l<<"found in "<<endl;
-            return nums[l];
-        }
+
+        return 0;
+
     }
 };
