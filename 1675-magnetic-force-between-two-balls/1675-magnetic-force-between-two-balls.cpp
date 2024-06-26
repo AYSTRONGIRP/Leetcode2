@@ -26,8 +26,8 @@ public:
     int maxDistance(vector<int>& stalls, int m) {
         int i = 0 ;
         int j = 1e9;
-        int ans = -1;
         int n = stalls.size();
+        int ans = stalls[n-1]-stalls[0];
         sort(stalls.begin(),stalls.end());
         
         if(n<m)
