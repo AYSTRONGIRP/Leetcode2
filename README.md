@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-running-sum-of-1d-array](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1603-running-sum-of-1d-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1675-magnetic-force-between-two-balls](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1675-magnetic-force-between-two-balls) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1839-decode-xored-array](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1839-decode-xored-array) |
 | [1899-count-items-matching-a-rule](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1899-count-items-matching-a-rule) |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1675-magnetic-force-between-two-balls](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # String
 |  |
@@ -389,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1675-magnetic-force-between-two-balls](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1675-magnetic-force-between-two-balls) |
 # Bit Manipulation
 |  |
 | ------- |
