@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0096-unique-binary-search-trees) |
 | [0343-integer-break](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0357-count-numbers-with-unique-digits) |
@@ -366,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0074-search-a-2d-matrix) |
 | [0096-unique-binary-search-trees](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0096-unique-binary-search-trees) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
