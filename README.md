@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0257-binary-tree-paths) |
@@ -399,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0078-subsets) |
 | [0338-counting-bits](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0338-counting-bits) |
 | [0861-flipping-an-image](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0861-flipping-an-image) |
 | [1839-decode-xored-array](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1839-decode-xored-array) |
