@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0198-house-robber) |
+| [0216-combination-sum-iii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0216-combination-sum-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0322-coin-change) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0040-combination-sum-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0113-path-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0494-target-sum) |
