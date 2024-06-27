@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0064-minimum-path-sum) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0357-count-numbers-with-unique-digits) |
