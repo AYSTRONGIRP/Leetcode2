@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0494-target-sum) |
+| [0576-out-of-boundary-paths](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0576-out-of-boundary-paths) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0747-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0943-sum-of-subarray-minimums) |
