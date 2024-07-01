@@ -430,3 +430,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0278-first-bad-version) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1293-three-consecutive-odds) |
+<!---LeetCode Topics End-->
