@@ -15,7 +15,7 @@ public:
             // for(auto it : v){
             //     cout<<it<<' ';
             // }
-            cout<<endl;
+            // cout<<endl;
             // if(pos==v.size()){
                 if(pos!=0)
                     pos= pos-1;
