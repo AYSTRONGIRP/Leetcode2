@@ -522,4 +522,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
