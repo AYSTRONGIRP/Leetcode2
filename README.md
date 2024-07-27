@@ -486,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2645-pass-the-pillow) |
+| [3462-vowels-game-in-a-string](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -501,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [3462-vowels-game-in-a-string](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3462-vowels-game-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -569,4 +571,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
