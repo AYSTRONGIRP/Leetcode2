@@ -443,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2727-number-of-senior-citizens](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
@@ -502,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2727-number-of-senior-citizens](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2727-number-of-senior-citizens) |
 | [3462-vowels-game-in-a-string](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3462-vowels-game-in-a-string) |
 ## Stack
 |  |
