@@ -435,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0128-longest-consecutive-sequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0921-spiral-matrix-iii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0948-sort-an-array) |
@@ -448,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0128-longest-consecutive-sequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
@@ -587,4 +589,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0921-spiral-matrix-iii) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
