@@ -435,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0128-longest-consecutive-sequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0921-spiral-matrix-iii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0921-spiral-matrix-iii) |
@@ -503,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0079-word-search) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -588,9 +590,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0079-word-search) |
 | [0921-spiral-matrix-iii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0921-spiral-matrix-iii) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0128-longest-consecutive-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
