@@ -442,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1720-crawler-log-folder](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -533,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Database
 |  |
@@ -592,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0079-word-search](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0079-word-search) |
 | [0921-spiral-matrix-iii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0921-spiral-matrix-iii) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Union Find
 |  |
 | ------- |
@@ -600,4 +603,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0079-word-search) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
