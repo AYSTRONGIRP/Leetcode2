@@ -435,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0128-longest-consecutive-sequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -605,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0079-word-search) |
 ## Breadth-First Search
 |  |
