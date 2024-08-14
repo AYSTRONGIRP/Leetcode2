@@ -439,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0128-longest-consecutive-sequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0921-spiral-matrix-iii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1293-three-consecutive-odds) |
@@ -459,14 +460,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Binary Search
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Sorting
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0948-sort-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Greedy
