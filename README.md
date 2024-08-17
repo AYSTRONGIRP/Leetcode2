@@ -443,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0948-sort-an-array) |
+| [1063-best-sightseeing-pair](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1063-best-sightseeing-pair) |
 | [1293-three-consecutive-odds](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -553,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [1063-best-sightseeing-pair](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1063-best-sightseeing-pair) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Graph
 |  |
