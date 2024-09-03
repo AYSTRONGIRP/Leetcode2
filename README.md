@@ -452,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2727-number-of-senior-citizens](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2727-number-of-senior-citizens) |
+| [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -495,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/2645-pass-the-pillow) |
+| [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 ## Math
 |  |
 | ------- |
@@ -573,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/0948-sort-an-array) |
+| [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/AYSTRONGIRP/Leetcode2/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 ## Merge Sort
 |  |
 | ------- |
